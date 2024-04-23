@@ -20,9 +20,9 @@ I'm a passionate cybersecurity enthusiast and college student at Penn State Univ
 
 ## Certifications
 
-| Currently have             | Currently pursuing                               |
-|----------------------------|--------------------------------------------------|
-| CompTIA A+                 | Offensive Security Certified Professional (OSCP) |
+| Currently have             | 
+|----------------------------|
+| CompTIA A+                 | 
 | CompTIA Network+           |
 | CompTIA Security+          | 
 | CompTIA Cloud+             |   
@@ -30,6 +30,9 @@ I'm a passionate cybersecurity enthusiast and college student at Penn State Univ
 | CompTIA CySA+              |
 | CompTIA Pentest+           |
 
+| Currently pursuing                               |
+|--------------------------------------------------|
+| Offensive Security Certified Professional (OSCP) |
 
 ## Connect with Me
 <a href="https://twitter.com/CyberArri"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="48" height="48"></a>
