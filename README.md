@@ -18,6 +18,23 @@ Here are some ideas to get you started:
 
 I'm a passionate cybersecurity enthusiast and college student at Penn State University, currently working towards a bachelor's degree in cybersecurity. I am constantly looking to learn more about cybersecurity as my learning journey continues.
 
+## Bio
+
+🎓 **Penn State Cybersecurity Student**  
+Second-year student at Penn State University, studying cybersecurity.
+
+🛠️ **IT Support Specialist**  
+With over a year of experience as an IT support specialist, providing comprehensive support for various computer issues, managing tickets, creating scripts for automation, and assisting with cybersecurity aspects, including setting up cybersecurity awareness training and helping the team with cybersecurity.
+
+🌟 **Passionate Learner & Educator**  
+Passionate about continuous learning and empowering others through knowledge sharing. Always eager to explore new concepts and technologies.
+
+🏅 **Cybersecurity Award Recipient**  
+Recipient of an award in cybersecurity, recognizing dedication and excellence in the field.
+
+📜 **CompTIA Certifications**  
+Holder of 7 CompTIA certifications, demonstrating expertise in various areas of information technology and cybersecurity.
+
 ## Certifications
 
 | Currently have             | 
