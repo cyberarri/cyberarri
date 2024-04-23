@@ -20,18 +20,15 @@ I'm a passionate cybersecurity enthusiast and college student at Penn State Univ
 
 ## Certifications
 
-| Currently have     | Currently pursuing                               |
-|--------------------|--------------------------------------------------|
-| CompTIA A+         | Offensive Security Certified Professional (OSCP) |
-| CompTIA Network+   |
-| CompTIA Security+  | 
-| CompTIA Cloud+     |   
-| CompTIA Linux+     |
-| CompTIA CySA+      |
-| CompTIA Pentest+   |
-
-
-
+| Currently have             | Currently pursuing                               |
+|----------------------------|--------------------------------------------------|
+| CompTIA A+                 | Offensive Security Certified Professional (OSCP) |
+| CompTIA Network+           |
+| CompTIA Security+          | 
+| CompTIA Cloud+             |   
+| CompTIA Linux+             |
+| CompTIA CySA+              |
+| CompTIA Pentest+           |
 
 
 ## Connect with Me
