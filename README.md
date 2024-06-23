@@ -59,5 +59,3 @@ Proud holder of 7 CompTIA certifications, underscoring proficiency across a spec
 <a href="https://www.linkedin.com/in/arriannaperez/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="48" height="48"></a>
 <a href="https://www.instagram.com/cyberarri/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="48" height="48"></a>
 <a href="https://tryhackme.com/p/cyberarri"><img src="https://tryhackme.com/img/favicon.png" width="48" height="48"></a>
-
-Feel free to reach out to connect or discuss anything related to cybersecurity, hacking, or technology in general! 🚀
