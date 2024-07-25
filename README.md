@@ -16,24 +16,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a passionate cybersecurity enthusiast and college student at Penn State University, currently working towards a bachelor's degree in cybersecurity. I am constantly looking to learn more about cybersecurity as my learning journey continues.
+I'm a passionate cybersecurity enthusiast and college student at Penn State University and I am currently working towards my bachelor's degree in cybersecurity. I am constantly looking to learn more about cybersecurity as my journey continues.
 
 ## Bio
 
 🎓 **Penn State Cybersecurity Student**  
-I am currently in my second year at Penn State University, where I'm pursuing a degree in cybersecurity. I am part of a cybersecurity club and have the role of "Education & Certification Specialist".
+I am currently in my second year at Penn State University, where I'm pursuing a degree in cybersecurity. I am part of a local chapter of the National Cybersecurity Student Association (NCSA) at my campus and have the role of "Education & Certification Specialist" where I help others who want to learn more about the process of going for certifications and provide resources that were useful for me.
 
-🏅 **Penn State Cybersecurity Award Recipient**  
-I am honored to have received recognition for dedication and excellence in the cybersecurity domain from Penn State University. The Cybersecurity Award recognizes a student who has demonstrated academic excellence in the undergraduate Cybersecurity Analytics and Operations (CYAOP) curriculum. The recognized student also has sought opportunities outside of their studies to take advantage of other experiences such as undergraduate research, campus and/or community service, professional certifications, and related field work. Candidates must have at least a fourth semester standing, have demonstrated outstanding scholarship in the CYAOP degree curriculum (3.0 GPA minimum) and have pursued opportunities beyond their degree work to apply their knowledge creatively and contribute to the body of knowledge in the cybersecurity field.
+🏅 **Penn State Cybersecurity Academic Award Recipient**  
+I am honored to have received the <a href=https://schuylkill.psu.edu/academic-awards>Cybersecurity Award</a> from Penn State University. "The Cybersecurity Award recognizes a student who has demonstrated academic excellence in the undergraduate Cybersecurity Analytics and Operations (CYAOP) curriculum. This student also has sought opportunities outside of their studies to take advantage of other experiences such as undergraduate research, campus and/or community service, professional certifications, and related field work. Candidates must have at least a fourth semester standing, have demonstrated outstanding scholarship in the CYAOP degree curriculum (3.0 GPA minimum) and have pursued opportunities beyond their degree work to apply their knowledge creatively and contribute to the body of knowledge in the cybersecurity field."
 
 🌟 **Passionate Learner & Educator**  
-Driven by a passion for continual growth and knowledge sharing, I am dedicated to exploring emerging technologies and sharing my insights to help others. As part of this, I help lead those interested in certifications within the cybersecurity club I am in.
+Using the knowledge I have gained through my education and hands-on experience, I try to help others learn when I can. I have a great passion for increasing my knowledge and am always looking for different ways that I could enhance my current knowledge or learn something new.
 
-🛠️ **IT Support Specialist**  
-I currently have over a year of hands-on experience as an IT support specialist and can address a wide array of computer-related issues. I have experience in a resolving tickets, creating scripts to help with task automation, and also actively contribute to various cybersecurity initiatives, such as assisting in the implementation of security measures and promoting cybersecurity awareness within the team.
+🛠️ **Experience**  
+I currently have over a year of hands-on experience as a part-time IT Support Specialist at a school district and have helped with various computer-related issues. I have experience in a resolving tickets, AD account creation, and more. I also have worked to help increase cyber awareness by setting up a anti-phishing program with cyber awareness trainings.
 
-📜 **CompTIA Certifications**  
-Proud holder of 7 CompTIA certifications, underscoring proficiency across a spectrum of information technology and cybersecurity domains.
+📜 **Certifications**  
+I currently have 7 CompTIA certifications and I am in the process of achieving my OSCP.
 
 ## Certifications
 
