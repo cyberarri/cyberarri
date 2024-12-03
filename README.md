@@ -21,7 +21,7 @@ I'm a passionate cybersecurity enthusiast and college student at Penn State Univ
 ## Bio
 
 🎓 **Penn State Cybersecurity Student**  
-I am currently in my second year at Penn State University, where I'm pursuing a degree in cybersecurity. I am part of a local chapter of the National Cybersecurity Student Association (NCSA) at my campus and have the role of "Education & Certification Specialist" where I help others who want to learn more about the process of going for certifications and provide resources that were useful for me.
+I am currently a student at Penn State University, where I'm pursuing a degree in cybersecurity.
 
 🏅 **Penn State Cybersecurity Academic Award Recipient**  
 I am honored to have received the <a href=https://schuylkill.psu.edu/academic-awards>Cybersecurity Award</a> from Penn State University. "The Cybersecurity Award recognizes a student who has demonstrated academic excellence in the undergraduate Cybersecurity Analytics and Operations (CYAOP) curriculum. This student also has sought opportunities outside of their studies to take advantage of other experiences such as undergraduate research, campus and/or community service, professional certifications, and related field work. Candidates must have at least a fourth semester standing, have demonstrated outstanding scholarship in the CYAOP degree curriculum (3.0 GPA minimum) and have pursued opportunities beyond their degree work to apply their knowledge creatively and contribute to the body of knowledge in the cybersecurity field."
@@ -33,28 +33,26 @@ Using the knowledge I have gained through my education and hands-on experience, 
 I currently have over a year of hands-on experience as a part-time IT Support Specialist at a school district and have helped with various computer-related issues. I have experience in a resolving tickets, AD account creation, and more. I also have worked to help increase cyber awareness by setting up a anti-phishing program with cyber awareness trainings.
 
 📜 **Certifications**  
-I currently have 7 CompTIA certifications and I am in the process of achieving my OSCP.
+I currently have 7 CompTIA certifications and have passed my OSCP and OSCP+ exams.
 
 ## Certifications
 
-| Currently have             | 
-|----------------------------|
-| CompTIA A+                 | 
-| CompTIA Network+           |
-| CompTIA Security+          | 
-| CompTIA Cloud+             |   
-| CompTIA Linux+             |
-| CompTIA CySA+              |
-| CompTIA Pentest+           |
-
-| Currently pursuing                               |
-|--------------------------------------------------|
-| Offensive Security Certified Professional (OSCP) |
+| Currently have                                     | 
+|----------------------------------------------------|
+| CompTIA A+                                         | 
+| CompTIA Network+                                   |
+| CompTIA Security+                                  | 
+| CompTIA Cloud+                                     |   
+| CompTIA Linux+                                     |
+| CompTIA CySA+                                      |
+| CompTIA Pentest+                                   |
+| Offensive Security Certified Professional (OSCP)   |
+| Offensive Security Certified Professional+ (OSCP+) |
 
 ## Connect with Me
 <a href="https://twitter.com/CyberArri"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="48" height="48"></a>
 <a href="https://medium.com/@cyberarri"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png" width="48" height="48"></a>
-<a href="https://cyberarri.wordpress.com/"><img src="https://img.icons8.com/color/48/000000/wordpress.png" width="48" height="48"></a>
+<a href="https://cyberarri.com/"><img src="https://cyberarri.com/wp-content/uploads/2024/08/cropped-img-kd2zjropvc8a3docknyw246e.png" width="48" height="48"></a>
 <a href="https://www.youtube.com/@cyberarri"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="48" height="48"></a>
 <a href="https://www.linkedin.com/in/arriannaperez/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="48" height="48"></a>
 <a href="https://www.instagram.com/cyberarri/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="48" height="48"></a>
