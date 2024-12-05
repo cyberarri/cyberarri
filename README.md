@@ -39,15 +39,19 @@ I currently have 7 CompTIA certifications and have passed my OSCP and OSCP+ exam
 
 | Currently have                                     | 
 |----------------------------------------------------|
-| CompTIA A+                                         | 
-| CompTIA Network+                                   |
-| CompTIA Security+                                  | 
-| CompTIA Cloud+                                     |   
-| CompTIA Linux+                                     |
-| CompTIA CySA+                                      |
-| CompTIA Pentest+                                   |
 | Offensive Security Certified Professional (OSCP)   |
 | Offensive Security Certified Professional+ (OSCP+) |
+| CompTIA Pentest+                                   |
+| CompTIA Security+                                  | 
+| CompTIA CySA+                                      |
+| CompTIA Cloud+                                     |   
+| CompTIA Linux+                                     |
+| CompTIA A+                                         | 
+| CompTIA Network+                                   |
+
+
+
+
 
 ## Connect with Me
 <a href="https://twitter.com/CyberArri"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="48" height="48"></a>
